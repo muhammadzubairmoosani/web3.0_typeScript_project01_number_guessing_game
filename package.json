@@ -1,5 +1,9 @@
 {
-  "name": "typescript_project01_number_guessing_game",
+  "name": "inquirer_number_guessing_game_01_moosani",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project07_adventure_game"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +11,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "bin": "./index.js",
+  "keywords": [
+    "Typescript",
+    "Inquirer",
+    "Guessing game",
+    "Command line",
+    "Interactive",
+    "Game development",
+    "CLI game",
+    "Number guessing",
+    "Typescript library",
+    "Inquirer library",
+    "CLI tool",
+    "User input",
+    "Console game",
+    "Typescript application"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
